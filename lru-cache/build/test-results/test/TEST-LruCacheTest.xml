@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LruCacheTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-15T11:40:36" hostname="DESKTOP-6HT83J3" time="0.049">
+  <properties/>
+  <testcase name="put then get simple test" classname="LruCacheTest" time="0.005"/>
+  <testcase name="priority test" classname="LruCacheTest" time="0.0"/>
+  <testcase name="negative size test" classname="LruCacheTest" time="0.042"/>
+  <testcase name="update value test" classname="LruCacheTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
